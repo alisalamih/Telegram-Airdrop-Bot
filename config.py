@@ -9,10 +9,10 @@ airdrop_live = True
 
 # Telegram
 api_token = (
-    "<YOUR BOT TOKEN>"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+    "5716149066:AAFQwczSi06q0j8OApgvVHK9ZvH0fQkc6rU"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 )
 
-host = ""  # ip/host where the bot is running
+host = "http://localhost:3000/"  # ip/host where the bot is running
 
 log_channel = 0  # Channel ID. Example: -1001355597767
 admins = []  # Telegram User ID's. Admins are able to execute command "/airdroplist"
